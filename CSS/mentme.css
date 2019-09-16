@@ -1,0 +1,160 @@
+header{
+    background-color: #EFE8E2;
+}
+#logo{
+    padding: 20px 200px;
+}
+
+nav .navbar{
+    padding: 40px 30px 0px 15px;
+    display: inline;
+    float: right;
+    color: #363636; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar a:link{
+    text-decoration: none;
+    color: #363636;
+}
+.navbar a:visited{
+    color: #363636; 
+}
+#watch{
+    top: 126px;
+    left: 116px;
+    width: 400px;
+    height: 500px;
+    padding-left: 100px;
+}
+#div{
+    padding-top: 70px;
+    float: right;
+    padding-right: 320px;
+}
+#intro{
+    color:#6b76ff;
+}
+h1{
+    color: #232323;
+}
+#new{
+    color:787878;
+    font-family: Arial;
+}
+#download{
+    box-sizing: border-box;
+    position: absolute;
+    background-color: #6376FF;
+    color: #ffffff;
+    padding:15px 25px;
+    border-radius: 25px;
+}
+h2{
+    text-align: center;
+}
+#watch2{
+    height: 350px;
+    width:350px;
+    float: right;
+    padding:0px 100px 50px 0px;
+}
+.about{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+}
+.up{
+    text-align: center;
+    box-shadow: 0 0 0.2em #6376FF;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px 70px;
+    border-color: none;
+}
+.up:hover{
+    background-color: #6376FF;
+    color: #ffffff;
+    border: none;
+}
+.up:hover #notification{
+    content: url(../Assets/notification.svg);
+}
+.up:hover #access{
+    content: url(../Assets/files.png);
+}
+.up:hover #messages{
+    content: url(../Assets/messages.png);
+}
+.up:hover #profile{
+    content: url(../Assets/profile.png);
+}
+.up:hover #webinars{
+    content: url(../Assets/webinar.png);
+}
+.up:hover #calendar{
+    content: url(../Assets/calender2.png);
+}
+#testimonials{
+    background-color: #002084;
+}
+#middle{
+    color:#ffffff;
+    padding: 50px 20px 0px 20px;
+    font-size: 30px;
+}
+.testimonials{
+    background-color: #ffffff;
+    margin:0px 50px 100px 50px;
+    padding:0px 20px;
+    border: none;
+    border-radius: 10px;
+    font-family: arial;
+    font-size: 15px; 
+}
+.testimonials .names{
+    float: right;
+}
+#end{
+    background-color: #EFE8E2;
+    padding: 10px;
+}
+#text{
+    font-weight: 15px;
+    font-family: arial;
+    color: #363636
+}
+#get{
+    border: none;
+    border-radius: 5px;
+    padding: 10px 30px;
+    background-color: #ffffff;
+}
+#logos{
+    padding: 10px;
+}
+.logos{
+    width: 50px;
+    height: 50px;
+}
+hr{
+    width: 1000px;
+}
+#logodown{
+    padding:0px 125px;
+    height:25px;
+}
+.links{
+    padding: 0px 15px;
+    color:#525355;
+    font-size: 12px;
+    font-family: arial;
+    font-weight: 12px;
+}
+a:link { 
+    text-decoration: none;
+}
+#last{
+    text-align: center;
+    font-family: arial;
+    font-size: 10px;
+    color: #EFE8E2;
+}
